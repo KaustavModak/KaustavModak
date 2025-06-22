@@ -10,18 +10,7 @@ I am a pre-final year student at Kalinga Institute of Industrial Technology, Bhu
 *   ✉️  You can contact me at [kaustav.modak29@gmail.com](mailto:kaustav.modak29@gmail.com)
 *   🧠  I'm learning NLP & DL
 *   ⚡  Building projects
-  ### Skills 
-<p align="left">
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kaustav Modak
 
-## Student | AI/ML | DSA
-
-I am a pre-final year student at Kalinga Institute of Industrial Technology, Bhubaneswar. I am interested in AI/ML and Data Science. Currently, I am learning DL.
-
-- 🌍 I'm based in India  
-- ✉️ You can contact me at [kaustav.modak29@gmail.com](mailto:kaustav.modak29@gmail.com)  
-- 🧠 I'm learning NLP & DL  
-- ⚡ Building projects  
 
 ---
 
