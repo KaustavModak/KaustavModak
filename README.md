@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Kaustav Modak
 =====================================================================================================================================
 
-Student | AI/ML | DSA
+Student | AI/ML | Data Science | DSA
 ---------------------
 
 I am a pre-final year student at Kalinga Institute of Industrial Technology, Bhubaneswar. I am interested in AI/ML and Data Science. Currently, I am learning DL.
