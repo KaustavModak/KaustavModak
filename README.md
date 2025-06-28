@@ -54,7 +54,7 @@ I am a pre-final year student at Kalinga Institute of Industrial Technology, Bhu
 
 <div align="center">
   <a href="https://github.com/KaustavModak/BUSINESS-AIDED-CUSTOMER-FEEDBACK-ASSESSMENT-SYSTEM">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustavModak&repo=Business-Aided-Customer-Feedback-Assessment-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustavModak&repo=BUSINESS-AIDED-CUSTOMER-FEEDBACK-ASSESSMENT-SYSTEM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
   <a href="https://github.com/KaustavModak/MULTIPLE-DISEASE-PREDICTION-SYSTEM">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustavModak&repo=MULTIPLE-DISEASE-PREDICTION-SYSTEM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
