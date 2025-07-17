@@ -52,12 +52,4 @@ I am a pre-final year student at Kalinga Institute of Industrial Technology, Bhu
 
 ### 🔍 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/KaustavModak/BUSINESS-AIDED-CUSTOMER-FEEDBACK-ASSESSMENT-SYSTEM">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustavModak&repo=BUSINESS-AIDED-CUSTOMER-FEEDBACK-ASSESSMENT-SYSTEM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-  <a href="https://github.com/KaustavModak/MULTIPLE-DISEASE-PREDICTION-SYSTEM">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustavModak&repo=MULTIPLE-DISEASE-PREDICTION-SYSTEM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-</div>
-                    </p>
+<div align="center"> <a href="https://github.com/KaustavModak/BUSINESS-AIDED-CUSTOMER-FEEDBACK-ASSESSMENT-SYSTEM"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustavModak&repo=BUSINESS-AIDED-CUSTOMER-FEEDBACK-ASSESSMENT-SYSTEM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /> </a> <a href="https://github.com/KaustavModak/MULTIPLE-DISEASE-PREDICTION-SYSTEM"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustavModak&repo=MULTIPLE-DISEASE-PREDICTION-SYSTEM&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /> </a> <a href="https://huggingface.co/spaces/KaustavModak/ann-classification-customer-churn"> <img width="45%" src="https://huggingface.co/datasets/huggingface/badges/raw/main/hf-spaces-badge.svg" alt="Hugging Face Space" /> <p><b style="color:#0891b2;">Customer Churn Classification</b><br><sub style="color:#ffffff;">ANN-based model deployed on Hugging Face</sub></p> </a> </div>
