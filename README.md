@@ -48,5 +48,3 @@ I am a pre-final year student at Kalinga Institute of Industrial Technology, Bhu
   </a>
 </p>
 
----
-                    </p>
